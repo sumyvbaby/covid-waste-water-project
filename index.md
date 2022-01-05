@@ -15,5 +15,6 @@ It has been shown that the concentrations of virus in the wastewater correlates 
 Currently, researchers at the University of Edinburgh are investigating whether different variants of SARS-CoV-2 can be detected and quantified in wastewater. This opens up the possibility to provide real-time data to PHS and related agencies to monitor and respond to new variants.
 
 National running average trends in wastewater Covid-19 and daily new case rates (7 day moving average), with samples taken up until 4th October. (sources: SEPA and "Coronavirus (COVID-19): modelling the epidemic (issue no. 72)")
-![This is an image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)
-![This is an image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)    
+  
+
+<img src="20211011%20Scotland%20map%20covid%20cases%20WW.jpg" width="300" height = "300"/> <img src="20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg" width="500" height="300"/> 
