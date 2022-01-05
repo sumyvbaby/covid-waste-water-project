@@ -22,8 +22,8 @@ National running average trends in wastewater Covid-19 and daily new case rates 
 
 div class="row">
   <div class="column">
-    <img src="https://www.wiki.ed.ac.uk/download/thumbnails/508952658/20211011%20Scotland%20map%20covid%20cases%20WW.jpg?version=1&modificationDate=1633947243000&api=v2" alt="Snow" style="width:100%">
+    <img src="https://www.wiki.ed.ac.uk/download/thumbnails/508952658/20211011%20Scotland%20map%20covid%20cases%20WW.jpg?version=1&modificationDate=1633947243000&api=v2" alt="Snow" style="width:40%">
   </div>
   <div class="column">
-    <img src="https://www.wiki.ed.ac.uk/download/attachments/508952658/20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg?version=1&modificationDate=1633946879000&api=v2" alt="Forest" style="width:100%">
+    <img src="https://www.wiki.ed.ac.uk/download/attachments/508952658/20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg?version=1&modificationDate=1633946879000&api=v2" alt="Forest" style="width:40%">
   </div>
