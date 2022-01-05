@@ -2,7 +2,7 @@
 
 ## An overview
 
-![This is an image](covid virus 2.jpg)
+![This is an image](covid%20virus%202.jpg)
 
 Severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2) is the virus that causes the respiratory illness COVID-19, responsible for the ongoing COVID-19 pandemic.
 
