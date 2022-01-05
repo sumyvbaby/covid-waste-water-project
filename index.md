@@ -1,3 +1,4 @@
+# Covid waste water project
 
 ## An overview
 
@@ -15,6 +16,6 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 
 
  
- |National running average trends in wastewater Covid-19 |Daily new case rates (7 day moving average), with samples taken up until 4th October|
+ |National running average trends of Covid-19 virus in wastewater |Daily new case rates with samples taken up until 4rth October|
  |:-:|:-:|
-|![First Image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)|![Second Image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)|
+ |![First Image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)|![Second Image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)|
