@@ -16,7 +16,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 
 National running average trends in wastewater Covid-19 and daily new case rates (7 day moving average), with samples taken up until 4th October. (sources: SEPA and "Coronavirus (COVID-19): modelling the epidemic (issue no. 72)")
 
-![This is an image](https://www.wiki.ed.ac.uk/download/thumbnails/508952658/20211011%20Scotland%20map%20covid%20cases%20WW.jpg?version=1&modificationDate=1633947243000&api=v2)
+![This is an image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)
 
 ![This is an image](https://www.wiki.ed.ac.uk/download/attachments/508952658/20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg?version=1&modificationDate=1633946879000&api=v2)
 
