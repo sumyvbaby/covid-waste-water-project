@@ -1,7 +1,7 @@
 ---
 title : Covid waste water project
 ---
-{% include navigation.html %}
+{% include navbar.html %}
 
 ## An overview
 
