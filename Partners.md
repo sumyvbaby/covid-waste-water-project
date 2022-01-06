@@ -3,6 +3,8 @@ title: Covid waste water project
 ---
 {% include navbar.html %} 
 
+# Partners
+
 ![This is an image](https://www.wiki.ed.ac.uk/download/attachments/508956168/University_of_Edinburgh-Logo.wine.png?version=2&modificationDate=1633352369000&api=v2)
 
 Researchers at the University of Edinburgh have been working on developing methods for SARS-Cov2 RNA monitoring in wastewater, as well as for the identification of new SARS-Cov2 variants. 
@@ -22,7 +24,7 @@ The Scottish Environment Protection Agency (SEPA)  began exploratory work to pin
 
 Sampling has been ongoing with more and more sites being added to the monitoring network over time. They have been sharing data with Public Health Scotland, Scottish Government, the Office for National Statistics and the Joint Biosecurity Centre  A group at Biomathematics and Statistics Scotland (BioSS) uses SEPA data to regularly inform the Scottish Government and feeds into a number of regular reports.
 
-For more information on SEPA coronavirus monitoring in wastewater, click here
+For more information on SEPA coronavirus monitoring in wastewater, [click here](https://informatics.sepa.org.uk/RNAmonitoring/)
 
 {% include footer.html %} 
 
