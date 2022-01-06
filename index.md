@@ -1,7 +1,7 @@
- {% include navigation.html %}
- ---
- title : Covid waste water project
- ---
+---
+title : Covid waste water project
+---
+{% include navigation.html %}
 
 ## An overview
 
