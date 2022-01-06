@@ -26,3 +26,5 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 - [Wastewater SARS Public Health Environmental Response, or W-SPHERE](https://sphere.waterpathogens.org/)
 - [Monthly statistics for the Environmental Monitoring for Health Protection (EMHP) wastewater program (England)](https://www.gov.uk/government/collections/monthly-statistics-for-the-environmental-monitoring-for-health-protection-emhp-wastewater-program-england)
 - [Coronavirus (COVID-19): modelling the epidemic - Scotland](https://www.gov.scot/collections/coronavirus-covid-19-modelling-the-epidemic/)
+
+{% include footer.html %}
