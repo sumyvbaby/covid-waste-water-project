@@ -24,6 +24,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 {% include column.html %}
 <hr>
 
+<link rel="stylesheet" type="text/css" href="style.css">
 <div class="footer">
   <p class="footer-text-left">
     <a href="index.html" class="menu">home</a>
