@@ -22,5 +22,6 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 
 ## Here are some useful links
 {% include column.html %}
-
+<br>
+<br>
 {% include footer.html %}
