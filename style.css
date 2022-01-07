@@ -27,6 +27,7 @@ footer {
 }
 .footer-text-left {
   font-size:25px;
+  background-color: DarkSalmon;
   padding-left:40px;
   float:left;
   word-spacing:20px;
