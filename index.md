@@ -27,4 +27,4 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 <br>
 <br>
 <hr>
-{% include footer.html %}
+{% include bottomnavbar.html %}
