@@ -24,7 +24,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 
 {% include column.html %}
 
- # <p> </p> 
+ # <hr>
 
 {% include bottomnavbar.html %}
 
