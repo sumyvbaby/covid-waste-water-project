@@ -21,5 +21,27 @@ Currently, researchers at the University of Edinburgh are investigating whether 
  |![First Image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)|![Second Image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)|
 
 ## Useful links
-{% include column.html %}
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="columns">
+  <div class="column">
+    <a href="https://twitter.com/COVIDPoops19"><i class="fa fa-external-link"></i> Tweeting/retweeting all things wastewater & SARS-CoV-2</a>  
+    <br>
+    <br>
+    <a href="https://ucmerced.maps.arcgis.com/apps/dashboards/c778145ea5bb4daeb58d31afee389082"><i class="fa fa-external-link"></i> Summary of Global SARS-CoV-2 Wastewater Monitoring Efforts by UC Merced Researchers</a>
+  </div>
+  <div class="column">
+    <a href="https://sphere.waterpathogens.org/"><i class="fa fa-external-link"></i> Waste water SARS Public Health Environmental Response, or W-SPHERE</a>  
+    <br>
+    <br>
+    <a href="https://www.gov.uk/government/collections/monthly-statistics-for-the-environmental-monitoring-for-health-protection-emhp-wastewater-program-england"><i class="fa fa-external-link"></i> Monthly statistics for the Environmental Monitoring for Health Protection (EMHP) wastewater program (England)</a>
+  
+  </div>
+  <div class="column">
+    <a href="https://www.gov.scot/collections/coronavirus-covid-19-modelling-the-epidemic/"><i class="fa fa-external-link"></i> Coronavirus (COVID-19): modelling the epidemic - Scotland</a>
+    
+  </div>
+</div>
 
