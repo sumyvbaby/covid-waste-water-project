@@ -23,4 +23,11 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 ## <span>&#9759;</span> Here are some useful links
 {% include column.html %}
 <hr>
-{% include footer.html %}
+
+<div class="footer">
+  <p class="footer-text-left">
+    <a href="index.html" class="menu">home</a>
+    <a href="https://css.sammy-codes.com/about.html" class="menu">about</a>
+    <a href="https://css.sammy-codes.com/credits.html" class="menu">credits</a>
+  </p>
+</div>
