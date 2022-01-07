@@ -23,6 +23,3 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 ## Useful links
 {% include column.html %}
 
-
-
-{% include footer.html %}
