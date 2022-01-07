@@ -23,5 +23,5 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 ## Useful links
 ## Usefulhtml
 
-{% include column.html}
+{% include column.html %}
 
