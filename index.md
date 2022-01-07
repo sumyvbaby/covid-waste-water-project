@@ -21,6 +21,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
  |![First Image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)|![Second Image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)|
 
 ## Useful links
+## Usefulhtml
 
 {% include column.html}
 
