@@ -11,5 +11,5 @@ assessments with respect to any potential hazard from SARS-CoV-2 in wastewater.
 ## Data and Protocols:
 [Data from SEPA - SARS-CoV2 RNA monitoring in wastewater (Covid-WW)](https://www.wiki.ed.ac.uk/display/COV/Data+from+SEPA+-+SARS-CoV2++RNA+monitoring+in+wastewater)
 
-{% include footer.html %} 
+{% include bottomnavbar.html %}
 
