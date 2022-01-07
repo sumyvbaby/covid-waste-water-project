@@ -21,6 +21,10 @@
   font-size: 20px;
 }
 
+footer {
+  background-color: DarkSalmon;
+  
+}
 .footer-text-left {
   font-size:25px;
   padding-left:40px;
