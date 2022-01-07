@@ -27,4 +27,6 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 - [Monthly statistics for the Environmental Monitoring for Health Protection (EMHP) wastewater program (England)](https://www.gov.uk/government/collections/monthly-statistics-for-the-environmental-monitoring-for-health-protection-emhp-wastewater-program-england)
 - [Coronavirus (COVID-19): modelling the epidemic - Scotland](https://www.gov.scot/collections/coronavirus-covid-19-modelling-the-epidemic/)
 
+{% include column.html %}
+
 {% include footer.html %}
