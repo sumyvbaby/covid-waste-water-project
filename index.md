@@ -23,7 +23,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 ## <span>&#9759;</span> Here are some useful links
 {% include column.html %}
 
-# hjkl
+# 
 
 {% include bottomnavbar.html %}
 
