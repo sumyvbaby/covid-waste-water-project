@@ -26,5 +26,5 @@ Sampling has been ongoing with more and more sites being added to the monitoring
 
 For more information on SEPA coronavirus monitoring in wastewater, [click here](https://informatics.sepa.org.uk/RNAmonitoring/)
 
-{% include footer.html %} 
+{% include bottomnavbar.html %}
 
