@@ -21,13 +21,8 @@ Currently, researchers at the University of Edinburgh are investigating whether 
  |![First Image](20211011%20Scotland%20map%20covid%20cases%20WW.jpg)|![Second Image](20211011%20average%20trends%20in%20WW-%20modelling%20the%20epidemic%20issue%2072.jpg)|
 
 ## Useful links
-- [Tweeting/retweeting all things wastewater & SARS-CoV-2](https://twitter.com/COVIDPoops19)  
-- [Summary of Global SARS-CoV-2 Wastewater Monitoring Efforts by UC Merced Researchers](https://ucmerced.maps.arcgis.com/apps/dashboards/c778145ea5bb4daeb58d31afee389082)
-- [Wastewater SARS Public Health Environmental Response, or W-SPHERE](https://sphere.waterpathogens.org/)
-- [Monthly statistics for the Environmental Monitoring for Health Protection (EMHP) wastewater program (England)](https://www.gov.uk/government/collections/monthly-statistics-for-the-environmental-monitoring-for-health-protection-emhp-wastewater-program-england)
-- [Coronavirus (COVID-19): modelling the epidemic - Scotland](https://www.gov.scot/collections/coronavirus-covid-19-modelling-the-epidemic/)
-
 {% include column.html %}
+
 
 
 {% include footer.html %}
