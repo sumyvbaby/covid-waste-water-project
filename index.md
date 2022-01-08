@@ -24,7 +24,7 @@ Currently, researchers at the University of Edinburgh are investigating whether 
 
 {% include threecolumns.html %}
 
- #
+ 
 
 {% include bottomnavbar.html %}
 
