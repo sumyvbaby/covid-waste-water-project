@@ -1,25 +1,30 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
 <title>Horizontal Navigation Bar w/Rollover Effect</title> 
-<link rel="stylesheet" type="text/css" href="style.css">
 <style type="text/css"> 
 <!-- 
- 
+ body {
+	margin: 0;
+	padding: 0;
+	}
+	 
+	
+		
  #navbar ul { 
 	margin: 0; 
 	padding: 5px; 
 	list-style-type: none; 
-	text-align: left; 
+	text-align: right; 
 	background-color: ##157878; 
 	} 
  
 #navbar ul li {  
-	display: inline-block; 
+	display: inline; 
 	} 
  
 #navbar ul li a { 
 	text-decoration: none; 
-	padding: .2em 1em;
+	padding: .2em 1em; 
 	color: #fff; 
 	background-color: #157878; 
 	} 
@@ -27,29 +32,23 @@
 #navbar ul li a:hover { 
 	color: #157878; 
 	background-color: #fff; 
-	} 
+	}
 	
-.container-fluid-w1000 {
-      width: 1500px;
-     
-      } 
-
+ 
 --> 
 </style> 
 </head> 
 <body> 
-  <div class="container-fluid container-fluid-w1000">
-    <div id="navbar"> 
-      <ul> 
-	    <li><a href=".">Home</a></li> 
-	    <li><a href="Datafromsepa">Data from SEPA</a></li> 
-	    <li><a href="Methodsdevelopment">Methods development</a></li> 
-	    <li><a href="Monitoringinwastewater">Monitoring in waste water</a></li> 
-	    <li><a href="Partners">Partners</a></li> 
+<div id="navbar"> 
+  <ul> 
+	<li><a href=".">Home</a></li> 
+	<li><a href="Datafromsepa">Data from SEPA</a></li> 
+	<li><a href="Methodsdevelopment">Methods development</a></li> 
+	<li><a href="Monitoringinwastewater">Monitoring in waste water</a></li> 
+	<li><a href="Partners">Partners</a></li> 
         <li><a href="Prevalanceinwastewater">Prevalance in waste water</a></li>
-        <li><a href="Protocols">Protocols</a>  </li>
-      </ul> 
-    </div>
-  </div>
+        <li><a href="Protocols">Protocols</a></li>
+ </ul> 
+</div> 
 </body> 
 </html>
